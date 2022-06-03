@@ -1,7 +1,7 @@
 # Ungoogle Tab A 10.1 SM-T580
 Ungoogle Galaxy Tab A 10.1 (2016, SM-T580, Android 12)
 
-# based on
+# Based on
 
 https://gist.github.com/janstuemmel/bebdb5c4e042a0919d0c7cf803f1230c
 

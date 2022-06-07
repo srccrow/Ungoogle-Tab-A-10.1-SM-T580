@@ -49,7 +49,7 @@ Read first, flash afterwards! File to download are in the Resources section belo
 ### Resources
 
 * [TWRP Download Page for gtaxlwifi on twrp.me](https://dl.twrp.me/gtaxlwifi/)
-* [Lineage OS Download on xda-developers.com](https://forum.xda-developers.com/t/lineageos-19-1-for-sm-t580-gtaxlwifi-and-sm-p580-gtanotexlwifi.4432957/page-4#post-86981839)
+* [Lineage OS Download on xda-developers.com](https://forum.xda-developers.com/t/lineageos-19-1-for-sm-t580-gtaxlwifi-and-sm-p580-gtanotexlwifi.4432957/)
 * [Magisk v24.1 Flashable ZIP on github.com](https://github.com/topjohnwu/Magisk/releases/tag/v24.1)
 * [AuroraStore Download on github.com](https://auroraoss.com/)
 * [LSPosed](https://github.com/LSPosed/LSPosed)

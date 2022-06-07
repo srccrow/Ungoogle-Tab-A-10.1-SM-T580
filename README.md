@@ -37,7 +37,7 @@ Read first, flash afterwards! File to download are in the Resources section belo
 
 ### After installing Lineage OS
 
-* Install Droidify as a standalone package
+* Install Neo-Store as a standalone package
 * Install LSPosed Magisk module from https://github.com/LSPosed/LSPosed
 * Restart device
 

@@ -1,5 +1,5 @@
 # Ungoogle Tab A 10.1 SM-T580
-Ungoogle Galaxy Tab A 10.1 (2016, SM-T580, Android 12)
+Ungoogle Galaxy Tab A 10.1 (2016, SM-T580, Android 12.1)
 
 # Based on
 
@@ -7,7 +7,7 @@ https://gist.github.com/janstuemmel/bebdb5c4e042a0919d0c7cf803f1230c
 
 # Ungoogle Samsung Galaxy Tab A 10.1
 
-Model: SM-T580, Android 12.1, 64bit
+Model: SM-T580, Android 12.1, 64-bit
 
 Read first, flash afterwards! File to download are in the Resources section below!
 
@@ -44,7 +44,7 @@ Read first, flash afterwards! File to download are in the Resources section belo
 ### MicroG
 
 * Use https://github.com/FriendlyNeighborhoodShane/MinMicroG-abuse-CI
-* Compile your own version of FakeGapps addressing Android 12 https://github.com/nift4/FakeGApps, consider closed pull-request in order to compile it successfuly inside Android Studio https://github.com/nift4/FakeGApps/pull/1 consider that this version will only work on Android 12.
+* Compile your own version of FakeGapps addressing Android 12.1 https://github.com/nift4/FakeGApps, consider closed pull-request in order to compile it successfuly inside Android Studio https://github.com/nift4/FakeGApps/pull/1 consider that this version will only work on Android 12.1
 
 ### Resources
 

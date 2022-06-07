@@ -50,7 +50,7 @@ Read first, flash afterwards! File to download are in the Resources section belo
 
 * [TWRP Download Page for gtaxlwifi on twrp.me](https://dl.twrp.me/gtaxlwifi/)
 * [Lineage OS Download on xda-developers.com](https://forum.xda-developers.com/galaxy-tab-a/development/rom-lineageos-14-1-android-7-1-2-nougat-t3706002)
-* [Magisk v21.3 Flashable ZIP on github.com](https://github.com/topjohnwu/Magisk/releases/tag/v24.1)
+* [Magisk v24.1 Flashable ZIP on github.com](https://github.com/topjohnwu/Magisk/releases/tag/v24.1)
 * [AuroraStore Download on github.com](https://auroraoss.com/)
 * [LSPosed](https://github.com/LSPosed/LSPosed)
 * [MicroG](https://github.com/FriendlyNeighborhoodShane)

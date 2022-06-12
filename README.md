@@ -30,7 +30,7 @@ Read first, flash afterwards! File to download are in the Resources section belo
 * Add Zip files
 	 * Lineage OS Zip file
 	 * If you really want Google, add Zip file from https://wiki.lineageos.org/gapps
-	 * If you want Root add the Magisk Zip file, https://github.com/topjohnwu/Magisk/releases/tag/v24.1 (required for MicroG and LSPosed)
+	 * If you want Root add the Magisk Zip file, https://github.com/topjohnwu/Magisk/releases/tag/v25.0 (required for MicroG and LSPosed)
 	 * If you want to download Apps from PlayStore anonymously, add AuroraStore as a standalone package or https://github.com/FriendlyNeighborhoodShane/MinMicroG-abuse-CI
 * Flash the selected Zip files
 * Reboot device after flashing, you can now use Lineage OS
@@ -50,7 +50,7 @@ Read first, flash afterwards! File to download are in the Resources section belo
 
 * [TWRP Download Page for gtaxlwifi on twrp.me](https://dl.twrp.me/gtaxlwifi/)
 * [LineageOS Download on xda-developers.com](https://forum.xda-developers.com/t/lineageos-19-1-for-sm-t580-gtaxlwifi-and-sm-p580-gtanotexlwifi.4432957/)
-* [Magisk v24.1 Flashable ZIP on github.com](https://github.com/topjohnwu/Magisk/releases/tag/v24.1)
+* [Magisk v25.0 Flashable ZIP on github.com](https://github.com/topjohnwu/Magisk/releases/tag/v25.0)
 * [AuroraStore Download on github.com](https://auroraoss.com/)
 * [LSPosed](https://github.com/LSPosed/LSPosed)
 * [MicroG](https://github.com/FriendlyNeighborhoodShane)
